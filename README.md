@@ -15,4 +15,6 @@
   <a href=""><img src="/assets/images/hackerrank.svg" /></a>&nbsp;
 </p>
 
+<br/>
+
 <p align="center"><img src="/assets/images/divider.svg" alt="_" /></p>
