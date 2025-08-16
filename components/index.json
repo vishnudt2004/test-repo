@@ -1,0 +1,5 @@
+[
+  { "component_name": "Anchor", "file": "anchor.tsx" },
+  { "component_name": "Button", "file": "button.tsx" },
+  { "component_name": "Carousel", "file": "carousel.tsx" }
+]
