@@ -1,5 +1,5 @@
 [
-  { "component_name": "Anchor", "file": "anchor.tsx" },
-  { "component_name": "Button", "file": "button.tsx" },
-  { "component_name": "Carousel", "file": "carousel.tsx" }
+  { "component_name": "Anchor", "files": ["anchor.tsx"], "localDependencies": [], "peerDependencies": {} },
+  { "component_name": "Button", "files": ["button.tsx"], "localDependencies": [], "peerDependencies": {} },
+  { "component_name": "Carousel", "files": ["carousel.tsx"], "localDependencies": [], "peerDependencies": {} }
 ]
