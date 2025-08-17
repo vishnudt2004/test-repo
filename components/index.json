@@ -1,5 +1,5 @@
 [
-  { "component_name": "Anchor", "files": ["anchor.tsx"], "localDependencies": [], "peerDependencies": {} },
-  { "component_name": "Button", "files": ["button.tsx"], "localDependencies": [], "peerDependencies": {} },
-  { "component_name": "Carousel", "files": ["carousel.tsx"], "localDependencies": [], "peerDependencies": {} }
+  { "component_name": "Anchor", "files": ["anchor.jsx"], "localDependencies": ["/lib/globals.d.ts"], "peerDependencies": {"clsx": "^2.1.1"} },
+  { "component_name": "Button", "files": ["button.tsx"], "localDependencies": ["/lib/globals.d.ts"], "peerDependencies": {"clsx": "^2.1.1"} },
+  { "component_name": "Carousel", "files": ["carousel.jsx"], "localDependencies": [], "peerDependencies": {} }
 ]
