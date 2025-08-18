@@ -1,0 +1,16 @@
+{
+  "files": ["lib/globals.d.ts", "style/global.css"],
+  "additionalInstructions": [],
+  "dependencies": {
+    "clsx": "^00",
+    "tailwind-merge": "^4"
+  },
+  "devDependencies": {
+    "@types/react": "^00",
+    "@types/react-dom": "^00"
+  },
+  "peerDependencies": {
+    "react-dom": "^00",
+    "react": "^18"
+  }
+}

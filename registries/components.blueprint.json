@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ComponentName",
+    "description": "",
+    "files": ["abs-path/to/component-name.ext", "abs-path/to/local-dep.ext"],
+    "dependencies": {
+      "package": "version"
+    },
+    "devDependencies": {
+      "package": "version"
+    },
+    "peerDependencies": {
+      "package": "version"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "files": ["abs-path/to/global-dep.ext"],
+  "additionalInstructions": [
+    {
+      "title": "",
+      "description": ""
+    }
+  ],
+  "dependencies": {
+    "package": "version"
+  },
+  "devDependencies": {
+    "package": "version"
+  },
+  "peerDependencies": {
+    "package": "version"
+  }
+}
