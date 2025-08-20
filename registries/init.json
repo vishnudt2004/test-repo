@@ -1,6 +1,15 @@
 {
-  "files": ["lib/globals.d.ts", "style/global.css"],
-  "additionalInstructions": [],
+  "files": [],
+  "additionalInstructions": [
+    {
+      "title": "Setup Tailwind Merge",
+      "description": "Ensure that 'tailwind-merge' is correctly imported in your components file to merge class names dynamically."
+    },
+    {
+      "title": "React Types",
+      "description": "Install '@types/react' and '@types/react-dom' to enable TypeScript type checking for React components."
+    }
+  ],
   "dependencies": {
     "clsx": "^00",
     "tailwind-merge": "^4"
