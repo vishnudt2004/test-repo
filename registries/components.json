@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Button",
+    "description": "A simple button component with variants",
+    "files": ["components/button/button.tsx", "components/button/button.css"],
+    "dependencies": {
+      "clsx": "^2.1.1"
+    },
+    "devDependencies": {
+      "@types/react": "^19.1.2"
+    },
+    "peerDependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0"
+    }
+  },
+  {
+    "name": "TextField",
+    "description": "Input field with label and error handling",
+    "files": ["components/text-field.tsx"],
+    "dependencies": {
+      "clsx": "^2.1.1"
+    },
+    "devDependencies": {},
+    "peerDependencies": {
+      "react": "^18.0.0"
+    }
+  },
+  {
+    "name": "Modal",
+    "description": "Accessible modal dialog with focus trap",
+    "files": [
+      "components/modal/modal.tsx",
+      "components/modal/modal.css",
+      "components/hooks/use-lock-body-scroll.ts"
+    ],
+    "dependencies": {
+      "focus-trap-react": "^10.2.0"
+    },
+    "devDependencies": {},
+    "peerDependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0"
+    }
+  },
+  {
+    "name": "Card",
+    "description": "Simple card container with header and footer slots",
+    "files": ["components/card/card.tsx", "components/card/card.css"],
+    "dependencies": {},
+    "devDependencies": {},
+    "peerDependencies": {
+      "react": "^18.0.0"
+    }
+  }
+]
