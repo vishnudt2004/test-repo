@@ -2,7 +2,7 @@
   {
     "name": "Button",
     "description": "A simple button component with variants",
-    "files": ["components/button/button.tsx", "components/button/button.css"],
+    "files": ["components/button/button.tsx", "components/button/button.css", "components/hooks/use-lock-body-scroll.ts"],
     "dependencies": {
       "clsx": "^2.1.1"
     },
@@ -31,7 +31,7 @@
     "description": "Accessible modal dialog with focus trap",
     "files": [
       "components/modal/modal.tsx",
-      "components/modal/modal.css",
+      "components/button/button.css",
       "components/hooks/use-lock-body-scroll.ts"
     ],
     "dependencies": {
